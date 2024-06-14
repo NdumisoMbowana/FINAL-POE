@@ -1,6 +1,6 @@
 # FINAL-POE
 # Recipe Manager Application
-
+github repository link -  https://github.com/NdumisoMbowana/FINAL-POE.git
 ## Overview
 
 The Recipe Manager Application is a WPF-based desktop application for creating, displaying, and managing recipes. Users can add new recipes with ingredients and steps, view a list of all recipes, and display specific recipe details. The app notifies users if a recipe exceeds 300 calories.
